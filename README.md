@@ -18,17 +18,18 @@ They have consulted us to understand how can they understand the patterns of cus
 
 ## Notebook: Basic ML Models, Validation strategies, Feature Engineering 
 Till now: Merged data, performed exploratory data analysis(Continuation from previous notebook)
+
 Agenda:
-Basic data cleaning - One Hot Encoding, Feature Scaling
-Train - test split
-Distance-based Models (kNN)
-Accuracy Metrics
-Validation Strategies (Validation Set)
-Cross - Validation
-Linear Models (Linear Regression/Logistic Regression)
-Model improvement stratgies: Impact of Feature Engineering/Feature Selection, missing value imputation, cleaning/capping outliers, balancing target categories (oversampling/SMOTE)
-Tree-based models (if time permits)
+1. Basic data cleaning - One Hot Encoding, Feature Scaling
+2. Train - test split
+3. Distance-based Models (kNN)
+4. Accuracy Metrics
+5. Validation Strategies (Validation Set)
+6. Cross - Validation
+7. Linear Models (Linear Regression/Logistic Regression)
+8. Model improvement stratgies: Impact of Feature Engineering/Feature Selection, missing value imputation, cleaning/capping outliers, balancing target categories (oversampling/SMOTE)
+9. Tree-based models (if time permits) 
+
 Problem statement:
 ABC Bank has provided us with a dataset that contains customer details for their customers in BankAttrition - Details.csv file. The transactions related information and what kind of credit card the customer holds is provided to us in another file Transaction and Card Details.csv. The bank is currently facing problems of customer attrition. They have consulted us to understand how can they understand the patterns of customer attrition and if they can get early signals so to stop losing customers.
 
-Till now: Merged data, performed exploratory data analysis
